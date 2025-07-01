@@ -66,13 +66,12 @@
 
 ---
 
-### 🌟 Projetos em Destaque
+### 🌟 Projeto em Destaque
 
 <div align="center">
   
   [![Selah](https://github-readme-stats.vercel.app/api/pin/?username=leticiael&repo=selah&theme=tokyonight&hide_border=true)](https://github.com/leticiael/selah)
   
-  *🚀 Mais projetos incríveis em breve...*
   
 </div>
 
