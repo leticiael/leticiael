@@ -78,18 +78,6 @@
 
 ---
 
-### � Let's Connect!
-
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leticiael)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://leticiael.dev)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leticia@example.com)
-  
-</div>
-
----
-
 ### 💭 Quote do Dia
 
 <div align="center">
@@ -101,7 +89,7 @@
 
 ---
 
-### 👁️ Exploradores que passaram por aqui
+### 👁️  passaram por aqui
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leticiael&label=visitors&color=6a0dad&style=for-the-badge" />
@@ -111,6 +99,5 @@
   
   ![](https://hit.yhype.me/github/profile?user_id=leticiael)
   
-  ⭐ *"Sometimes it's worth leaning into the fear of change"* - Outer Wilds ⭐
   
 </div>
