@@ -50,11 +50,11 @@
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=leticiael&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiael&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
   <br/>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiael&theme=tokyonight&hide_border=true" width="70%" />
 
   <br/>
 
