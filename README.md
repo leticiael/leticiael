@@ -67,7 +67,6 @@
 
 <div align="center">
 
-  [![Selah](https://github-readme-stats.vercel.app/api/pin/?username=leticiael&repo=selah&theme=tokyonight&hide_border=true)](https://github.com/leticiael/selah)
   [![Selah App](https://github-readme-stats.vercel.app/api/pin/?username=leticiael&repo=selah-app&theme=tokyonight&hide_border=true)](https://github.com/leticiael/selah-app)
 
   *🚀 Mais projetos incríveis em breve...*
