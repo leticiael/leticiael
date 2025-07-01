@@ -1,5 +1,5 @@
 <div align="center">More actions
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="500" alt="Outer Wilds GIF"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY3YzZrazd6ZmxreWR1bHNwMXB2aHUxMjNvMHk3ZWxhNDNpbXoyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rQAkBvurR6CI/giphy.gif" width="500" alt="Outer Wilds GIF"/>
 
   # 🌌 Olá, sou a Letícia! 
 
