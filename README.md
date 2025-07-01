@@ -16,7 +16,7 @@
 - 📊 Fascinada por **dados**, **análises visuais** e **linguagens declarativas**
 - 📚 Adoro **literatura**: Dostoiévski, Camus, Rumi e Nietzsche
 - 🎮 **Gamer** nas horas vagas
-- 🌌 Exploradora de universos (tanto em códigos quanto em jogos como Outer Wilds!)
+
 
 ---
 
