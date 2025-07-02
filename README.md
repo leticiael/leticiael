@@ -45,8 +45,7 @@
 
 ---
 
-### Featured Project
-
+### Meu melhor projeto <3
 <div align="center">
 
   [![Selah App](https://github-readme-stats.vercel.app/api/pin/?username=leticiael&repo=selah-app&theme=tokyonight&hide_border=true)](https://github.com/leticiael/selah-app)
