@@ -1,30 +1,29 @@
-<div align="center">More actions
+<div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY3YzZrazd6ZmxreWR1bHNwMXB2aHUxMjNvMHk3ZWxhNDNpbXoyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rQAkBvurR6CI/giphy.gif" width="500" alt="Outer Wilds GIF"/>
 
-  # 🌌 Olá, sou a Letícia! 
+  # Letícia Eltermann
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=435&lines=Dev+Front-end+%F0%9F%92%BB;Criadora+do+Selah+%E2%9C%A8;Fascinada+por+dados+%F0%9F%93%8A;Amante+de+literatura+%F0%9F%93%9A;Exploradora+de+universos+%F0%9F%8C%8C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&vCenter=true&width=435&lines=Software+Engineer+student+%F0%9F%92%BB;Frontend+Developer+%E2%9C%A8;React+%26+TypeScript+%F0%9F%9A%80;UI%2FUX+Enthusiast+%F0%9F%8E%A8" alt="Typing SVG" />
 </div>
 
 ---
 
-### ✨ Sobre mim
+### 💼 Sobre mim
 
 - 🎓 **Engenharia de Software** (6º período)
-- 💻 **Dev Front-end** | Criadora do **Selah** ✨
-- 📊 Fascinada por **dados**, **análises visuais** e **linguagens declarativas**
-- 📚 Adoro **literatura**: Dostoiévski, Camus, Rumi e Nietzsche
-- 🎮 **Gamer** nas horas vagas
+- 💻 **Frontend Developer** | Criadora do **Selah**
+-  Aprecio **literatura**: Dostoiévski, Camus, Rumi e Nietzsche
+- 🎮 **Gaming** enthusiast
 
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### 🛠️ Tech Stack
 
 <div align="center">
-
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,vscode,github,figma&perline=5" />
-
+  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,git,vscode,github,figma&perline=5&theme=dark" />
+  
 </div>
 
 <details>
@@ -46,57 +45,39 @@
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiael&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiael&theme=tokyonight&hide_border=true" width="70%" />
-
-  <br/>
-
-
-</div>
-
----
-
-### 🌟 Projeto em Destaque
+### Featured Project
 
 <div align="center">
 
   [![Selah App](https://github-readme-stats.vercel.app/api/pin/?username=leticiael&repo=selah-app&theme=tokyonight&hide_border=true)](https://github.com/leticiael/selah-app)
 
-  *🚀 Mais projetos incríveis em breve...*
 
 </div>
 
----
-
-
-
-### 💭
+### 📊 GitHub Contributions
 
 <div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiael&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="48%" />
 
-  *"O cosmos está dentro de nós. Somos feitos de material estelar. Somos uma forma de o universo se conhecer."*  
-  **— Carl Sagan**
+  <br/> </div>
+
+
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiael&theme=tokyonight&hide_border=true" width="70%" />
+
+  <br/> </div>
+  ---
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leticiael&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
 
 </div>
-More actions
+
 ---
 
-### 👁️ Exploradores que passaram por aqui
+###  Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leticiael&label=visitors&color=6a0dad&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=leticiael&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
-
-<div align="center">
-
-  ![](https://hit.yhype.me/github/profile?user_id=leticiael)
-
-
-</div>
