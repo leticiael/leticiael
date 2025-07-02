@@ -16,9 +16,8 @@
 const leticia = {
   education: "Software Engineering Student (6th semester)",
   currentRole: "Frontend Developer",
-  projects: ["Selah App"],
-  interests: ["Literature", "Gaming", "Space Exploration"],
-  favoriteAuthors: ["Dostoiévski", "Camus", "Rumi", "Nietzsche"],
+  interests: ["Literature", "Gaming", "Space Exploration","Philosophy"],
+  favoriteAuthors: ["Dostoiévski", "Camus", "Rumi", "Nietzsche", "Tolstoi", "Emily Dickinson","Sylvia Plath", "Bukowski"],
   currentlyLearning: ["React Patterns", "System Design"],
   funFact: "I explore digital universes by day, literary ones by night 🌌"
 };
@@ -83,7 +82,7 @@ const tools = {
 
 ---
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGszNTY5cm82b3pkbWw2YzhlazdlN3RsMmxuMjl2dW1pa25hMGtrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yd7W5xtppVCU2BSY9X/giphy.gif" width="25"> **My lovely project**
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGszNTY5cm82b3pkbWw2YzhlazdlN3RsMmxuMjl2dW1pa25hMGtrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yd7W5xtppVCU2BSY9X/giphy.gif" width="40"> **My lovely project**
 
 <div align="center">
 
@@ -92,18 +91,11 @@ const tools = {
 
 </div>
 
----
-
-### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA1NWlxdThweTU2NWs3OHYzdG5wcWtvOG5kb3g3cDgydDk3ZjBibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="70"> **QUOTE**
-*"The cosmos is within us. We are made of star-stuff."* ✨
-
-</div>
-
----
+<hr style="border: 2px solid #8A2BE2;">
 
 <div align="center">
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BodHMyZm16dGh6cXkybGZrNXg3ZXExa3MxMGZ5ODFqeWQ3bHN4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDZBrmwNjm5g8qsl1F/giphy.gif" width="50"> **Visitor**
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZ5Z3gyYThzemUyMnBxZDFya2kxanIxbmx1dzcydjY2NWp4bHRpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPlGxzu027rEELiCFr/giphy.gif" width="250"> <br> **Visitors**
 <img src="https://komarev.com/ghpvc/?username=leticiael&label=Universe%20Explorers&color=blueviolet&style=for-the-badge&labelColor=0D1117" />
 
 
