@@ -83,7 +83,7 @@ const tools = {
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **FEATURED PROJECT**
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGszNTY5cm82b3pkbWw2YzhlazdlN3RsMmxuMjl2dW1pa25hMGtrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yd7W5xtppVCU2BSY9X/giphy.gif" width="25"> **My lovely project**
 
 <div align="center">
 
@@ -94,12 +94,7 @@ const tools = {
 
 ---
 
-### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **COSMIC QUOTE**
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-
+### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDA1NWlxdThweTU2NWs3OHYzdG5wcWtvOG5kb3g3cDgydDk3ZjBibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="70"> **QUOTE**
 *"The cosmos is within us. We are made of star-stuff."* ✨
 
 </div>
@@ -108,12 +103,9 @@ const tools = {
 
 <div align="center">
 
-### <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="25"> **VISITOR COUNT**
-
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BodHMyZm16dGh6cXkybGZrNXg3ZXExa3MxMGZ5ODFqeWQ3bHN4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WDZBrmwNjm5g8qsl1F/giphy.gif" width="50"> **Visitor**
 <img src="https://komarev.com/ghpvc/?username=leticiael&label=Universe%20Explorers&color=blueviolet&style=for-the-badge&labelColor=0D1117" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF1493&height=100&section=footer"/>
 
-**⭐ "Sometimes it's worth leaning into the fear of change" - Outer Wilds ⭐**
 
 </div>
