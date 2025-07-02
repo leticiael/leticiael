@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY3YzZrazd6ZmxreWR1bHNwMXB2aHUxMjNvMHk3ZWxhNDNpbXoyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rQAkBvurR6CI/giphy.gif" width="500" alt="Outer Wilds GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnUxcWxudmoxcTVnODRtNGdpYmpraTk4YmkxYmEwbW5uNmgzYTdpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT1R9IWwrEUFXMZjnG/giphy.gif" width="500" alt="Outer Wilds GIF"/>
 
 
 </div>
