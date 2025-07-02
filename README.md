@@ -71,12 +71,9 @@ const tools = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=leticiael&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&icon_color=8A2BE2&text_color=00D4AA" width="48%" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leticiael&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=00D4AA" width="48%" />
-
+<br><br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=leticiael&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=FF1493&fire=00D4AA&currStreakLabel=00D4AA" width="70%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=leticiael&bg_color=0D1117&color=00D4AA&line=8A2BE2&point=FF1493&area=true&hide_border=true" width="100%" />
 
 </div>
 
