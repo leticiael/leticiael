@@ -1,12 +1,11 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXY3YzZrazd6ZmxreWR1bHNwMXB2aHUxMjNvMHk3ZWxhNDNpbXoyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6rQAkBvurR6CI/giphy.gif" width="500" alt="Outer Wilds GIF"/>
 
-  # <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=LETICIA+ELTERMANN;" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🌌+Software+Engineering+Student;💻+Frontend+Developer;🎨+UI%2FUX+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=650&height=160&lines=Software+Engineering+Student;Frontend+Developer;UI%2FUX+Enthusiast;Avid+gamer+during+downtime;Russian+Literature+Enthusiast;Philosophy+Lover" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +19,7 @@ const leticia = {
   projects: ["Selah App"],
   interests: ["Literature", "Gaming", "Space Exploration"],
   favoriteAuthors: ["Dostoiévski", "Camus", "Rumi", "Nietzsche"],
-  currentlyLearning: ["Advanced React Patterns", "System Design"],
+  currentlyLearning: ["React Patterns", "System Design"],
   funFact: "I explore digital universes by day, literary ones by night 🌌"
 };
 ```
