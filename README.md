@@ -37,7 +37,7 @@ const leticia = {
 ```typescript
 const techStack = {
   languages: ["JavaScript", "TypeScript", "Python"],
-  frameworks: ["React", "Next.js", "Node.js"],
+  frameworks: ["React", "Next.js", "Node.js", ],
   styling: ["CSS3", "Tailwind CSS", "Styled-Components"],
   databases: ["MongoDB", "PostgreSQL", "SQLSERVER"]
 };
