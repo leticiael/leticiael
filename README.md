@@ -19,7 +19,7 @@ const leticia = {
   interests: ["Literature", "Gaming", "Space Exploration","Philosophy"],
   favoriteAuthors: ["Dostoiévski", "Camus", "Rumi", "Nietzsche", "Tolstoi", "Emily Dickinson","Sylvia Plath", "Bukowski"],
   currentlyLearning: ["React Patterns", "System Design"],
-  funFact: "I explore digital universes by day, literary ones by night 🌌"
+  funFact: "I explore digital universes by day, literary ones by night 🌌" 
 };
 ```
 
