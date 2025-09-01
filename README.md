@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=650&height=160&lines=Software+Engineering+Student;Frontend+Developer;UI%2FUX+Enthusiast;Avid+gamer+during+downtime;Russian+Literature+Enthusiast;Philosophy+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?  font=Fira+Code&size=20&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=650&height=160&lines=Software+Engineering+Student;Frontend+Developer;UI%2FUX+Enthusiast;Avid+gamer+during+downtime;Russian+Literature+Enthusiast;Philosophy+Lover" alt="Typing SVG" />b 
 </p>
-
+  
 ---
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **ABOUT ME**
@@ -47,9 +47,9 @@ const techStack = {
 <td width="50%">
 
 **Tools **
-```typescript
+```typescript 
 const tools = {
-  editor: "VS Code",
+  editor: "VS Code", 
   versionControl: "Git & GitHub",
   design: "Figma",
   bundler: "Vite",
