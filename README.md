@@ -14,7 +14,7 @@
  
 ```typescript
 const leticia = {
-  education: "Software Engineering Student (6th semester)",
+  education: "Software Engineering Student (6th semester)", 
   currentRole: "Frontend Developer",
   interests: ["Literature", "Gaming", "Space Exploration","Philosophy"],
   favoriteAuthors: ["Dostoiévski", "Camus", "Rumi", "Nietzsche", "Tolstoi", "Emily Dickinson","Sylvia Plath", "Bukowski"],
