@@ -4,26 +4,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?  font=Fira+Code&size=20&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=650&height=160&lines=Software+Engineering+Student;Frontend+Developer;UI%2FUX+Enthusiast;Avid+gamer+during+downtime;Russian+Literature+Enthusiast;Philosophy+Lover" alt="Typing SVG"/>
-</p>
-  
----
-
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **ABOUT ME**
- 
-```typescript
-const leticia = {
-  education: "Software Engineering Student (6th semester)", 
-  currentRole: "Frontend Developer",
-  interests: ["Literature", "Gaming", "Space Exploration","Philosophy"],
-  favoriteAuthors: ["Dostoiévski", "Camus", "Rumi", "Nietzsche", "Tolstoi", "Emily Dickinson","Sylvia Plath", "Bukowski"],
-  currentlyLearning: ["React Patterns", "System Design"],
-  funFact: "I explore digital universes by day, literary ones by night 🌌" 
-};
-```
-
-
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GITHUB STATISTICS**
 
 <div align="center">
