@@ -23,49 +23,6 @@ const leticia = {
 };
 ```
 
----
-
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **TECH ARSENAL**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-**Tech Stack**
-```typescript
-const techStack = {
-  languages: ["JavaScript", "TypeScript", "Python"],
-  frameworks: ["React", "Next.js", "Node.js", ],
-  styling: ["CSS3", "Tailwind CSS", "Styled-Components"],
-  databases: ["MongoDB", "PostgreSQL", "SQLSERVER"]
-};
-```
-
-</td>
-<td width="50%">
-
-**Tools **
-```typescript 
-const tools = {
-  editor: "VS Code", 
-  versionControl: "Git & GitHub",
-  design: "Figma",
-  bundler: "Vite",
-  deployment: ["Vercel", "Netlify"]
-};
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,mongodb,postgres,tailwind,vite,git,vscode,github,figma&perline=7&theme=dark" />
-
-</div>
-
----
 
 ### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GITHUB STATISTICS**
 
@@ -79,7 +36,7 @@ const tools = {
 
 ---
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGszNTY5cm82b3pkbWw2YzhlazdlN3RsMmxuMjl2dW1pa25hMGtrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yd7W5xtppVCU2BSY9X/giphy.gif" width="40"> **My lovely project**
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGszNTY5cm82b3pkbWw2YzhlazdlN3RsMmxuMjl2dW1pa25hMGtrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yd7W5xtppVCU2BSY9X/giphy.gif" width="40"> 
 
 <div align="center">
 
