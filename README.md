@@ -30,7 +30,7 @@
 <div align="center">
 
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZ5Z3gyYThzemUyMnBxZDFya2kxanIxbmx1dzcydjY2NWp4bHRpcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPlGxzu027rEELiCFr/giphy.gif" width="250"> <br> **Visitors**
-<img src="https://komarev.com/ghpvc/?username=leticiael&label=Universe%20Explorers&color=blueviolet&style=for-the-badge&labelColor=0D1117" />
+<img src="https://komarev.com/ghpvc/?username=leticiael&color=blueviolet&style=for-the-badge&labelColor=0D1117" />
 
 
 
