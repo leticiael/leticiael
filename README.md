@@ -13,17 +13,17 @@ When I'm not pushing commits, I'm probably lost in a game.
 
 ---
 
-### analytics
+### trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leticiael&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=6e7681&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiael&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6&cache_seconds=1800" width="40%" />
+<img src="https://github-trophies.vercel.app/?username=leticiael&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&theme=onestar" width="100%" />
 
 </div>
 
-<br>
+---
+
+### streak
 
 <div align="center">
 
@@ -33,19 +33,25 @@ When I'm not pushing commits, I'm probably lost in a game.
 
 ---
 
+### snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticiael/leticiael/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticiael/leticiael/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake" src="https://raw.githubusercontent.com/leticiael/leticiael/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
 ### tech
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=8b949e)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=8b949e)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=8b949e)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=8b949e)
-![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=8b949e)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=8b949e)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=8b949e)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=8b949e)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=8b949e)
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,react,nodejs,git,linux,docker,vscode&theme=dark&perline=11" />
 
 </div>
 
