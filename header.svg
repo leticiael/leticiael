@@ -46,14 +46,14 @@
   <circle cx="590" cy="44" r="2" fill="#30363d"/>
 </g>
 <g class="fade" style="animation-delay:.1s">
-  <text x="48" y="82" font-family="monospace" font-size="11" fill="#484f58">~/leticiael $</text>
+  <text x="48" y="82" font-family="monospace" font-size="11" fill="#484f58">~/let $</text>
 </g>
 <g class="fade" style="animation-delay:.4s">
-  <text x="48" y="126" font-family="monospace" font-size="42" font-weight="700" fill="#c9d1d9">leticia el.</text>
+  <text x="48" y="126" font-family="monospace" font-size="42" font-weight="700" fill="#c9d1d9">let.</text>
 </g>
-<rect class="cur" x="340" y="104" width="3" height="26" fill="#6e7681"/>
+<rect class="cur" x="142" y="104" width="3" height="26" fill="#6e7681"/>
 <g class="fade" style="animation-delay:.8s">
-  <text x="50" y="150" font-family="monospace" font-size="11" fill="#484f58">estudante de tecnologia  ·  desenvolvimento web  ·  machine learning  ·  always learning</text>
+  <text x="50" y="150" font-family="monospace" font-size="11" fill="#484f58">cs student  ·  web development  ·  machine learning  ·  always learning</text>
 </g>
 <line x1="48" y1="168" x2="600" y2="168" stroke="#21262d" stroke-width=".8"
   style="stroke-dasharray:600;stroke-dashoffset:600;animation:draw 1.2s ease 1s forwards"/>
