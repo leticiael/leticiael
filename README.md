@@ -39,7 +39,7 @@ When I'm not pushing commits, I'm probably lost in a game.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,react,nodejs,git,linux,docker,vscode&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git,docker,vscode&theme=dark&perline=11" />
 
 </div>
 
