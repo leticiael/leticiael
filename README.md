@@ -9,7 +9,7 @@
 ### about
 
 I write code. I break things. I fix them.
-When I'm not pushing commits, I'm probably lost in a game.
+
 
 ---
 
