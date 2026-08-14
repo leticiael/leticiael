@@ -1,54 +1,27 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/leticiael/leticiael/main/header.svg" width="100%" alt="let."/>
+
+<img src="https://raw.githubusercontent.com/leticiael/leticiael/main/assets/hero.svg" width="100%" alt="leticiael — cs student, web development, machine learning" />
+
 </div>
 
 <br>
-  
----
-
-### about
-
-I write code. I break things. I fix them.
-
-
----
-
-### trophies
 
 <div align="center">
 
-<img src="https://github-trophies.vercel.app/?username=leticiael&no-frame=true&no-bg=true&margin-w=6&row=1&column=7&theme=onestar" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=leticiael&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&border_radius=20&bg_color=00000000&text_color=8b949e&icon_color=6e7681&ring_color=8b949e" width="46%" alt="stats" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiael&layout=compact&hide_border=true&hide_title=true&langs_count=6&border_radius=20&bg_color=00000000&text_color=8b949e" width="40%" alt="languages" />
 
 </div>
 
----
-
-### streak
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=leticiael&hide_border=true&background=0d1117&stroke=21262d&ring=c9d1d9&fire=8b949e&currStreakLabel=c9d1d9&sideLabels=484f58&dates=30363d&sideNums=c9d1d9&currStreakNum=c9d1d9" width="60%" />
-
-</div>
-
----
-
-
-
-### tech
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git,docker,vscode&theme=dark&perline=11" />
-
-</div>
-
----
-
-<div align="center">
-
-![visitors](https://komarev.com/ghpvc/?username=leticiael&color=30363d&style=flat-square&label=profile+views)
-
-<sub>leticiael · github.com/leticiael</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leticiael/leticiael/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leticiael/leticiael/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/leticiael/leticiael/output/snake-dark.svg" width="100%" alt="contribution snake" />
+</picture>
 
 </div>

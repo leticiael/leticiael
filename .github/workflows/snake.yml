@@ -12,16 +12,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write
 
     steps:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-dark.svg?color_snake=#e6edf3&color_dots=#161b22,#30363d,#484f58,#6e7681,#8b949e
+            dist/snake-light.svg?color_snake=#0d1117&color_dots=#eaeef2,#d0d7de,#afb8c1,#8c959f,#6e7781
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
