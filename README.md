@@ -6,11 +6,7 @@
 
 <br>
 
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/leticiael/leticiael/main/assets/stats.svg" width="100%" alt="github stats and top languages" />
-
-</div>
 
 <br>
 
