@@ -8,9 +8,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=leticiael&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&rank_icon=github&border_radius=20&bg_color=00000000&text_color=8b949e&icon_color=6e7681&ring_color=8b949e" width="46%" alt="stats" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiael&layout=compact&hide_border=true&hide_title=true&langs_count=6&border_radius=20&bg_color=00000000&text_color=8b949e" width="40%" alt="languages" />
+<img src="https://raw.githubusercontent.com/leticiael/leticiael/main/assets/stats.svg" width="100%" alt="github stats and top languages" />
 
 </div>
 
