@@ -65,7 +65,7 @@
       <circle cx="60" cy="210" r="120" class="orb" filter="url(#soft)"/>
       <rect x="0" y="0" width="660" height="220" filter="url(#grain)" opacity=".045"/>
       <text x="44" y="46" class="mono faint" font-size="11" letter-spacing="2.5">GITHUB</text>
-      <text x="44" y="132" class="sans fg" font-size="40" font-weight="700" letter-spacing="-2">533</text>
+      <text x="44" y="132" class="sans fg" font-size="40" font-weight="700" letter-spacing="-2">537</text>
       <text x="44" y="160" class="mono faint" font-size="10" letter-spacing="1.6">COMMITS (1Y)</text>
       <text x="196" y="132" class="sans fg" font-size="40" font-weight="700" letter-spacing="-2">3</text>
       <text x="196" y="160" class="mono faint" font-size="10" letter-spacing="1.6">STARS</text>
