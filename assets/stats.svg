@@ -71,7 +71,7 @@
       <text x="196" y="160" class="mono faint" font-size="10" letter-spacing="1.6">STARS</text>
       <text x="348" y="132" class="sans fg" font-size="40" font-weight="700" letter-spacing="-2">14</text>
       <text x="348" y="160" class="mono faint" font-size="10" letter-spacing="1.6">REPOS</text>
-      <text x="500" y="132" class="sans fg" font-size="40" font-weight="700" letter-spacing="-2">59</text>
+      <text x="500" y="132" class="sans fg" font-size="40" font-weight="700" letter-spacing="-2">60</text>
       <text x="500" y="160" class="mono faint" font-size="10" letter-spacing="1.6">FOLLOWERS</text>
     </g>
     <rect x=".5" y=".5" width="659" height="219" rx="26" class="edge" stroke-width="1"/>
