@@ -65,7 +65,7 @@
       <circle cx="60" cy="210" r="120" class="orb" filter="url(#soft)"/>
       <rect x="0" y="0" width="660" height="220" filter="url(#grain)" opacity=".045"/>
       <text x="44" y="46" class="mono faint" font-size="11" letter-spacing="2.5">GITHUB</text>
-      <text x="44" y="132" class="sans fg" font-size="40" font-weight="700" letter-spacing="-2">497</text>
+      <text x="44" y="132" class="sans fg" font-size="40" font-weight="700" letter-spacing="-2">499</text>
       <text x="44" y="160" class="mono faint" font-size="10" letter-spacing="1.6">COMMITS (1Y)</text>
       <text x="196" y="132" class="sans fg" font-size="40" font-weight="700" letter-spacing="-2">3</text>
       <text x="196" y="160" class="mono faint" font-size="10" letter-spacing="1.6">STARS</text>
@@ -85,23 +85,23 @@
       <rect x="684" y="0" width="316" height="220" filter="url(#grain)" opacity=".045"/>
       <text x="712" y="46" class="mono faint" font-size="11" letter-spacing="2.5">LANGUAGES</text>
       <text x="712" y="82" class="mono dim" font-size="11">Jupyter Notebook</text>
-      <text x="976" y="82" class="mono faint" font-size="10" text-anchor="end">85.6%</text>
+      <text x="976" y="82" class="mono faint" font-size="10" text-anchor="end">85.0%</text>
       <rect x="712" y="89" width="264" height="3" rx="1.5" class="track"/>
-      <rect x="712" y="89" width="226.1" height="3" rx="1.5" class="bar" fill-opacity="0.95"/>
+      <rect x="712" y="89" width="224.4" height="3" rx="1.5" class="bar" fill-opacity="0.95"/>
       <text x="712" y="111" class="mono dim" font-size="11">Python</text>
-      <text x="976" y="111" class="mono faint" font-size="10" text-anchor="end">4.7%</text>
+      <text x="976" y="111" class="mono faint" font-size="10" text-anchor="end">5.3%</text>
       <rect x="712" y="118" width="264" height="3" rx="1.5" class="track"/>
-      <rect x="712" y="118" width="12.4" height="3" rx="1.5" class="bar" fill-opacity="0.74"/>
+      <rect x="712" y="118" width="13.9" height="3" rx="1.5" class="bar" fill-opacity="0.74"/>
       <text x="712" y="140" class="mono dim" font-size="11">JavaScript</text>
-      <text x="976" y="140" class="mono faint" font-size="10" text-anchor="end">3.4%</text>
+      <text x="976" y="140" class="mono faint" font-size="10" text-anchor="end">3.3%</text>
       <rect x="712" y="147" width="264" height="3" rx="1.5" class="track"/>
-      <rect x="712" y="147" width="8.9" height="3" rx="1.5" class="bar" fill-opacity="0.56"/>
+      <rect x="712" y="147" width="8.8" height="3" rx="1.5" class="bar" fill-opacity="0.56"/>
       <text x="712" y="169" class="mono dim" font-size="11">Kotlin</text>
       <text x="976" y="169" class="mono faint" font-size="10" text-anchor="end">2.7%</text>
       <rect x="712" y="176" width="264" height="3" rx="1.5" class="track"/>
       <rect x="712" y="176" width="7.1" height="3" rx="1.5" class="bar" fill-opacity="0.4"/>
       <text x="712" y="198" class="mono dim" font-size="11">CSS</text>
-      <text x="976" y="198" class="mono faint" font-size="10" text-anchor="end">1.6%</text>
+      <text x="976" y="198" class="mono faint" font-size="10" text-anchor="end">1.5%</text>
       <rect x="712" y="205" width="264" height="3" rx="1.5" class="track"/>
       <rect x="712" y="205" width="4.1" height="3" rx="1.5" class="bar" fill-opacity="0.28"/>
     </g>
